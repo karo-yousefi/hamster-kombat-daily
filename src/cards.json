@@ -1,0 +1,477 @@
+{
+    "ceo": {
+        "name": "CEO",
+        "cat": "PR&Team",
+        "pic": "src/ceo"
+    },
+    "marketing": {
+        "name": "Marketing",
+        "cat": "PR&Team",
+        "pic": "src/marketing"
+    },
+    "it_team":{
+        "name": "IT team",
+        "cat": "PR&Team",
+        "pic": "src/it_team"
+    },
+    "support_team": {
+        "name": "Support Team",
+        "cat": "PR&Team",
+        "pic": "src/support_team"
+    },
+    "hamsterbook": {
+        "name": "HamsterBook",
+        "cat": "PR&Team",
+        "pic": "src/hamsterbook"
+    },
+    "hamstertube": {
+        "name": "HamsterTube",
+        "cat": "PR&Team",
+        "pic": "src/hamstertube"
+    },
+    "x": {
+        "name": "X",
+        "cat": "PR&Team",
+        "pic": "src/x"
+    },
+    "cointelegraph": {
+        "name": "Cointelegraph",
+        "cat": "PR&Team",
+        "pic": "src/cointelegraph"
+    },
+    "hemstergram": {
+        "name": "HemsterGram",
+        "cat": "PR&Team",
+        "pic": "src/hemstergram"
+    },
+    "tiktok": {
+        "name": "TikTok",
+        "cat": "PR&Team",
+        "pic": "src/tiktok"
+    },
+    "coindesk": {
+        "name": "Coindesk",
+        "cat": "PR&Team",
+        "pic": "src/coindesk"
+    },
+    "influencers": {
+        "name": "Influencers",
+        "cat": "PR&Team",
+        "pic": "src/influencers"
+    },
+    "partnership_program": {
+        "name": "Partnership Program",
+        "cat": "PR&Team",
+        "pic": "src/partnership_program"
+    },
+    "product_team": {
+        "name": "Product team",
+        "cat": "PR&Team",
+        "pic": "src/product_team"
+    },
+    "bisdev_team": {
+        "name": "BisDev team",
+        "cat": "PR&Team",
+        "pic": "src/bisdev_team"
+    },
+    "two_factor_authentication": {
+        "name": "Two factor authentication",
+        "cat": "PR&Team",
+        "pic": "src/two_factor_authentication"
+    },
+    "ux_and_ui_team": {
+        "name": "UX and UI team",
+        "cat": "PR&Team",
+        "pic": "src/ux_and_ui_team"
+    },
+    "securiity_team": {
+        "name": "Securiity team",
+        "cat": "PR&Team",
+        "pic": "src/securiity_team"
+    },
+    "qa_team": {
+        "name": "QA team",
+        "cat": "PR&Team",
+        "pic": "src/qa_team"
+    },
+    "antihacking_shield": {
+        "name": "Antihacking shield",
+        "cat": "PR&Team",
+        "pic": "src/antihacking_shield"
+    },
+    "risk_management_team": {
+        "name": "Risk management team",
+        "cat": "PR&Team",
+        "pic": "src/risk_management_team"
+    },
+    "secutiy_audition": {
+        "name": "Secutiy audition",
+        "cat": "PR&Team",
+        "pic": "src/secutiy_audition"
+    },
+    "anonymouse_transactions_ban": {
+        "name": "Anonymouse Transactions Ban",
+        "cat": "PR&Team",
+        "pic": "src/anonymouse_transactions_ban"
+    },
+    "blocking_suspicious_accounts": {
+        "name": "Blocking suspicious accounts",
+        "cat": "PR&Team",
+        "pic": "src/blocking_suspicious_accounts"
+    },
+    "tokenomics_expert": {
+        "name": "Tokenomics expert",
+        "cat": "PR&Team",
+        "pic": "src/tokenomics_expert"
+    },
+    "consensus_explorer_passes": {
+        "name": "Consensus explorer passes",
+        "cat": "PR&Team",
+        "pic": "src/consensus_explorer_passes"
+    },
+    "vc_labs": {
+        "name": "VC Labs",
+        "cat": "PR&Team",
+        "pic": "src/vc_labs"
+    },
+    "compliance_officer": {
+        "name": "Compliance officer",
+        "cat": "PR&Team",
+        "pic": "src/compliance_officer"
+    },
+    "welcome_to_amsterdam": {
+        "name": "Welcome to Amsterdam",
+        "cat": "PR&Team",
+        "pic": "src/welcome_to_amsterdam"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "PR&Team",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Market",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Market",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Market",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Market",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Market",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Market",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Market",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Market",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Market",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Market",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Market",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Market",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Market",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Market",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Market",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Market",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Market",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Market",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Market",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Market",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Market",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Market",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Market",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Legal",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Legal",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Legal",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Legal",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Legal",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Legal",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Legal",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Legal",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Legal",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Legal",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Legal",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Legal",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Legal",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Legal",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Legal",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Legal",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Legal",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Legal",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Legal",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Legal",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Specials",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Specials",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Specials",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Specials",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Specials",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Specials",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Specials",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Specials",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Specials",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Specials",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Specials",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Specials",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Specials",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Specials",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Specials",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Specials",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Specials",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Specials",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Specials",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Specials",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Specials",
+        "pic": "src/development_hub_munbai"
+    },
+    "development_hub_munbai": {
+        "name": "Development Hub Munbai",
+        "cat": "Specials",
+        "pic": "src/development_hub_munbai"
+    }
+}
