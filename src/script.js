@@ -25,25 +25,29 @@ function getAPI(API, cardsDirectory){
         return response.json();
     })
     .then(apiData => {
-        let dailyCard = apiData.dailyCard;
-        let morseCode = apiData.morseCode;
+        
+        const dailyCards= apiData.dailyCards;
+        const morseCode = apiData.morseCode;
+
 
         // Check if dailyCard is an array and has at least 3 elements
-        // if (!Array.isArray(dailyCard) || dailyCard.length < 3) {
-        //     throw new Error('Invalid dailyCard data');
-        // }
+        if (!Array.isArray(dailyCards) || dailyCards.length < 3) {
+            console.error('Invalid dailyCard data:', dailyCards); // More detailed error log
+            throw new Error('Invalid dailyCard data');
+        }
 
         fetch(cardsDirectory)
         .then(response => {
             if (!response.ok) {
-                throw new Error('Network response was not ok ' + response.statusText);
+                throw new Error("Network response was not ok " + response.statusText);
             }
             return response.json();
         })
         .then(data => {
-            const cardOne = data[dailyCard[0]];
-            const cardTwo = data[dailyCard[1]];
-            const cardThree = data[dailyCard[2]];
+            const cardOne = data[dailyCards[0]];
+            const cardTwo = data[dailyCards[1]];
+            const cardThree = data[dailyCards[2]];
+
 
             // Check if cardOne, cardTwo, and cardThree exist
             if (!cardOne || !cardTwo || !cardThree) {
@@ -58,9 +62,9 @@ function getAPI(API, cardsDirectory){
             cardTwoCat.innerHTML = cardTwo.cat;
             cardThreeCat.innerHTML = cardThree.cat;
 
-            cardOnePic.src = cardOne.pic;
-            cardTwoPic.src = cardTwo.pic;
-            cardThreePic.src = cardThree.pic;
+            // cardOnePic.src = cardOne.pic;
+            // cardTwoPic.src = cardTwo.pic;
+            // cardThreePic.src = cardThree.pic;
 
         })
         .catch(error => {
@@ -76,7 +80,7 @@ function getAPI(API, cardsDirectory){
 }
 
 
-getAPI(API);
+getAPI(API, cardsDirectory);
 
 
 

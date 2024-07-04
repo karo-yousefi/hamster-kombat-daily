@@ -79,7 +79,7 @@
         "cat": "PR&Team",
         "pic": "src/two_factor_authentication"
     },
-    "ux_and_ui_team": {
+    "ux_ui_team": {
         "name": "UX and UI team",
         "cat": "PR&Team",
         "pic": "src/ux_and_ui_team"
@@ -149,329 +149,349 @@
         "cat": "PR&Team",
         "pic": "src/development_hub_munbai"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "fan_tokens": {
+        "name": "Fan tokens",
         "cat": "Market",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/fan_tokens"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "stacking": {
+        "name": "Stacking",
         "cat": "Market",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/stacking"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "btc_pairs": {
+        "name": "BTC pairs",
         "cat": "Market",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/btc_pairs"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "etc_pairs": {
+        "name": "ETC pairs",
         "cat": "Market",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/etc_pairs"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "top_10_cmc_pairs": {
+        "name": "Top 10 cmc pairs",
         "cat": "Market",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/top_10_cmc_pairs"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "gamefi_tokens": {
+        "name": "GameFi tokens",
         "cat": "Market",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/gamefi_tokens"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "defi2.0_tokens": {
+        "name": "Defi2.0 tokens",
         "cat": "Market",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/defi2.0_tokens"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "socialfi_tokens": {
+        "name": "SocialFi tokens",
         "cat": "Market",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/socialfi_tokens"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "meme_coins": {
+        "name": "Meme coins",
         "cat": "Market",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/meme_coins"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "shit_coins": {
+        "name": "Shit coins",
         "cat": "Market",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/shit_coins"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "margin_tradingx10": {
+        "name": "Margin tradingx10",
         "cat": "Market",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/margin_tradingx10"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "margin_tradingx20": {
+        "name": "Margin tradingx20",
         "cat": "Market",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/margin_tradingx20"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "margin_tradingx30": {
+        "name": "Margin tradingx30",
         "cat": "Market",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/margin_tradingx30"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "margin_tradingx50": {
+        "name": "Margin tradingx50",
         "cat": "Market",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/margin_tradingx50"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "margin_tradingx75": {
+        "name": "Margin tradingx75",
         "cat": "Market",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/margin_tradingx75"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "margin_tradingx100": {
+        "name": "Margin tradingx100",
         "cat": "Market",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/margin_tradingx100"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "derivatives": {
+        "name": "Derivatives",
         "cat": "Market",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/derivatives"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "prediciton_markets": {
+        "name": "Prediciton markets",
         "cat": "Market",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/prediciton_markets"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "web3_integration": {
+        "name": "Web3 integration",
         "cat": "Market",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/web3_integration"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "dao": {
+        "name": "DAO",
         "cat": "Market",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/dao"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "p2p_trading": {
+        "name": "P2P trading",
         "cat": "Market",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/p2p_trading"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "trading_bots": {
+        "name": "Trading bots",
         "cat": "Market",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/trading_bots"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "layerzero_listing": {
+        "name": "LayerZero Listingp",
         "cat": "Market",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/layerzero_listing"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "kyc": {
+        "name": "KYC",
         "cat": "Legal",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/kyc"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "kyb": {
+        "name": "KYB",
         "cat": "Legal",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/kyb"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "legal_opinion": {
+        "name": "Legal opinion",
         "cat": "Legal",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/legal_opinion"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "sec_transparancy": {
+        "name": "SEC transparancy",
         "cat": "Legal",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/sec_transparancy"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "anti_money_loundeing": {
+        "name": "Anti money loundeing",
         "cat": "Legal",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/anti_money_loundeing"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "licence_uea": {
+        "name": "Licence UAE",
         "cat": "Legal",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/licence_uea"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "licence_europe": {
+        "name": "Licence Europe",
         "cat": "Legal",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/licence_europe"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "licence_asia": {
+        "name": "Licence Asia",
         "cat": "Legal",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/licence_asia"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "licence_south_america": {
+        "name": "Licence South America",
         "cat": "Legal",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/licence_south_america"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "licence_australia": {
+        "name": "Licence Australia",
         "cat": "Legal",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/licence_australia"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "licence_north_america": {
+        "name": "Licence North America",
         "cat": "Legal",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/licence_north_america"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "licence_nigeria": {
+        "name": "Licence Nigeria",
         "cat": "Legal",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/licence_nigeria"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "licence_japan": {
+        "name": "Licence Japam",
         "cat": "Legal",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/licence_japan"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "licence_ethiopia": {
+        "name": "Licence Ethiopia",
         "cat": "Legal",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/licence_ethiopia"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "licence_india": {
+        "name": "Licence Indea",
         "cat": "Legal",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/licence_india"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "licence_bangladesh": {
+        "name": "Licence Bangladesh",
         "cat": "Legal",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/licence_bangladesh"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "licence_indonesia": {
+        "name": "Licence Indonesia",
         "cat": "Legal",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/licence_indonesia"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "licence_vietnam": {
+        "name": "Licence Vietnam",
         "cat": "Legal",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/licence_vietnam"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "licence_turekey": {
+        "name": "Licence Turkey",
         "cat": "Legal",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/licence_turekey"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "licence_philippines": {
+        "name": "Licence Philippines",
         "cat": "Legal",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/licence_philippines"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "riyadh_masters_2024": {
+        "name": "Riyadh Masters 2024",
         "cat": "Specials",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/riyadhh_masters_2024"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "cx_hub_istanbul": {
+        "name": "CX Hub Istanbul",
         "cat": "Specials",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/cx_hub_istanbul"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "hamster_break_record": {
+        "name": "Hamster break record",
         "cat": "Specials",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/hamster_break_record"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "web3_game_con": {
+        "name": "Web3 Game Con",
         "cat": "Specials",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/web3_game_con"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "x_network_10_million": {
+        "name": "X Network 10 million",
         "cat": "Specials",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/x_network_10_million"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "hamster_green_energy": {
+        "name": "Hamster Green energy",
         "cat": "Specials",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/hamster_green_energy"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "youtube_25_million": {
+        "name": "YouTube 25 Million",
         "cat": "Specials",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/youtube_25_million"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "tg_leaders": {
+        "name": "TG Leaders",
         "cat": "Specials",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/tg_leaders"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "hamster_kombat_merch": {
+        "name": "Hamster Kombat merch",
         "cat": "Specials",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/hamster_kombat_merch"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "ton_hamster_kombat_success": {
+        "name": "TON + Hamster Kombat = Success",
         "cat": "Specials",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/ton_hamster_kombat_success"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "conssensus_piranha_pass": {
+        "name": "Conssensus Piranha Pass",
         "cat": "Specials",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/conssensus_piranha_pass"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "web3_academy_launch": {
+        "name": "Web3 academy launch",
         "cat": "Specials",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/web3_academy_launch"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "youtube_gold_button": {
+        "name": "YouTube Gold Button",
         "cat": "Specials",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/youtube_gold_button"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "hamster_youtube_channel": {
+        "name": "Hamster Youtube Channel",
         "cat": "Specials",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/hamster_youtube_channel"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "bitcoin_pizza_day": {
+        "name": "Bitcoin Pizza Day",
         "cat": "Specials",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/bitcoin_pizza_day"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "top_10_global_ranking": {
+        "name": "Top 10 Global Ranking",
         "cat": "Specials",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/top_10_global_ranking"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "nft_collection_launch": {
+        "name": "NFT Collection Launch",
         "cat": "Specials",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/nft_collection_launch"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "special_hamster_conference": {
+        "name": "Special Hamster Conference",
         "cat": "Specials",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/special_hamster_conference"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "short_squeeze": {
+        "name": "Short Squeeze",
         "cat": "Specials",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/short_squeeze"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "there_are_chairs": {
+        "name": "There Are Chairs",
         "cat": "Specials",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/there_are_chairs"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "villa_for_the_dev_team": {
+        "name": "Villa for the DEV team",
         "cat": "Specials",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/villa_for_the_dev_team"
     },
-    "development_hub_munbai": {
-        "name": "Development Hub Munbai",
+    "apps_center_listing": {
+        "name": "Apps Center Listing",
         "cat": "Specials",
-        "pic": "src/development_hub_munbai"
+        "pic": "src/apps_center_listing"
+    },
+    "bogdanoff_is_calling": {
+        "name": "Bogdanoff is calling",
+        "cat": "Specials",
+        "pic": "src/bogdanoff_is_calling"
+    },
+    "usdt_on_ton": {
+        "name": "USDT on TON",
+        "cat": "Specials",
+        "pic": "src/usdt_on_ton"
+    },
+    "premarket_launch": {
+        "name": "Premarket Launch",
+        "cat": "Specials",
+        "pic": "src/premarket_launch"
+    },
+    "long_squeeze": {
+        "name": "Long squeeze",
+        "cat": "Specials",
+        "pic": "src/long_squeeze"
     }
 }
