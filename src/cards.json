@@ -19,40 +19,40 @@
         "cat": "PR&Team",
         "pic": "src/support_team"
     },
-    "hamsterbook": {
-        "name": "HamsterBook",
+    "facebook_ads": {
+        "name": "Facebook ads",
         "cat": "PR&Team",
-        "pic": "src/hamsterbook"
+        "pic": "src/facebook_ads"
     },
-    "hamstertube": {
+    "youtube": {
         "name": "HamsterTube",
         "cat": "PR&Team",
-        "pic": "src/hamstertube"
+        "pic": "src/youtube"
     },
     "x": {
         "name": "X",
         "cat": "PR&Team",
         "pic": "src/x"
     },
-    "cointelegraph": {
-        "name": "Cointelegraph",
+    "medium": {
+        "name": "Medium",
         "cat": "PR&Team",
-        "pic": "src/cointelegraph"
+        "pic": "src/medium"
     },
-    "hemstergram": {
+    "instagram": {
         "name": "HemsterGram",
         "cat": "PR&Team",
-        "pic": "src/hemstergram"
+        "pic": "src/instagram"
     },
     "tiktok": {
         "name": "TikTok",
         "cat": "PR&Team",
         "pic": "src/tiktok"
     },
-    "coindesk": {
-        "name": "Coindesk",
+    "reddit": {
+        "name": "Reddit",
         "cat": "PR&Team",
-        "pic": "src/coindesk"
+        "pic": "src/reddit"
     },
     "influencers": {
         "name": "Influencers",
@@ -82,7 +82,7 @@
     "ux_ui_team": {
         "name": "UX and UI team",
         "cat": "PR&Team",
-        "pic": "src/ux_and_ui_team"
+        "pic": "src/ux_ui_team"
     },
     "securiity_team": {
         "name": "Securiity team",
@@ -124,10 +124,10 @@
         "cat": "PR&Team",
         "pic": "src/tokenomics_expert"
     },
-    "consensus_explorer_passes": {
-        "name": "Consensus explorer passes",
+    "consensys_explorer_pass": {
+        "name": "Consensus Explorer pass",
         "cat": "PR&Team",
-        "pic": "src/consensus_explorer_passes"
+        "pic": "src/consensys_explorer_pass"
     },
     "vc_labs": {
         "name": "VC Labs",
@@ -139,15 +139,33 @@
         "cat": "PR&Team",
         "pic": "src/compliance_officer"
     },
-    "welcome_to_amsterdam": {
+    "money_20_20": {
         "name": "Welcome to Amsterdam",
         "cat": "PR&Team",
-        "pic": "src/welcome_to_amsterdam"
+        "pic": "src/money_20_20"
     },
     "development_hub_munbai": {
         "name": "Development Hub Munbai",
         "cat": "PR&Team",
         "pic": "src/development_hub_munbai"
+    },
+    "data_center_tokyo": {
+        "remove": "true",
+        "name": "Data Center Tokyo",
+        "cat": "PR&Team",
+        "pic": "src/data_center_tokyo"
+    },
+    "cointelegraph": {
+        "remove": "true",
+        "name": "Cointelegraph",
+        "cat": "PR&Team",
+        "pic": "src/cointelegraph"
+    },
+    "coindesk": {
+        "remove": "true",
+        "name": "Coindesk",
+        "cat": "PR&Team",
+        "pic": "src/coindesk"
     },
     "fan_tokens": {
         "name": "Fan tokens",
@@ -199,35 +217,35 @@
         "cat": "Market",
         "pic": "src/shit_coins"
     },
-    "margin_tradingx10": {
+    "margin_trading_x10": {
         "name": "Margin tradingx10",
         "cat": "Market",
-        "pic": "src/margin_tradingx10"
+        "pic": "src/margin_trading_x10"
     },
-    "margin_tradingx20": {
+    "margin_trading_x20": {
         "name": "Margin tradingx20",
         "cat": "Market",
-        "pic": "src/margin_tradingx20"
+        "pic": "src/margin_trading_x20"
     },
-    "margin_tradingx30": {
+    "margin_trading_x30": {
         "name": "Margin tradingx30",
         "cat": "Market",
-        "pic": "src/margin_tradingx30"
+        "pic": "src/margin_trading_x30"
     },
-    "margin_tradingx50": {
+    "margin_trading_x50": {
         "name": "Margin tradingx50",
         "cat": "Market",
-        "pic": "src/margin_tradingx50"
+        "pic": "src/margin_trading_x50"
     },
-    "margin_tradingx75": {
+    "margin_trading_x75": {
         "name": "Margin tradingx75",
         "cat": "Market",
-        "pic": "src/margin_tradingx75"
+        "pic": "src/margin_trading_x75"
     },
-    "margin_tradingx100": {
+    "margin_trading_x100": {
         "name": "Margin tradingx100",
         "cat": "Market",
-        "pic": "src/margin_tradingx100"
+        "pic": "src/margin_trading_x100"
     },
     "derivatives": {
         "name": "Derivatives",
@@ -364,134 +382,234 @@
         "cat": "Legal",
         "pic": "src/licence_philippines"
     },
-    "riyadh_masters_2024": {
-        "name": "Riyadh Masters 2024",
+    "usdt_on_ton": {
+        "name": "USDT on TON",
         "cat": "Specials",
-        "pic": "src/riyadhh_masters_2024"
+        "pic": "src/usdt_on_ton"
     },
-    "cx_hub_istanbul": {
-        "name": "CX Hub Istanbul",
+    "blockchain_life_2024": {
+        "name": "Blockchain Life 2024",
         "cat": "Specials",
-        "pic": "src/cx_hub_istanbul"
+        "pic": "src/blockchain_life_2024"
     },
-    "hamster_break_record": {
-        "name": "Hamster break record",
+    "save_hamster_from_drowning": {
+        "name": "Save hamster from drowning",
         "cat": "Specials",
-        "pic": "src/hamster_break_record"
+        "pic": "src/save_hamster_from_drowning"
     },
-    "web3_game_con": {
-        "name": "Web3 Game Con",
+    "taker_carlson_interview": {
+        "name": "Tooker Carlson interview",
         "cat": "Specials",
-        "pic": "src/web3_game_con"
+        "pic": "src/taker_carlson_interview"
     },
-    "x_network_10_million": {
-        "name": "X Network 10 million",
+    "token2049": {
+        "name": "Token2049",
         "cat": "Specials",
-        "pic": "src/x_network_10_million"
+        "pic": "src/token2049"
     },
-    "hamster_green_energy": {
-        "name": "Hamster Green energy",
+    "bongdanoff": {
+        "name": "Bongdanoff is calling",
         "cat": "Specials",
-        "pic": "src/hamster_green_energy"
-    },
-    "youtube_25_million": {
-        "name": "YouTube 25 Million",
-        "cat": "Specials",
-        "pic": "src/youtube_25_million"
-    },
-    "tg_leaders": {
-        "name": "TG Leaders",
-        "cat": "Specials",
-        "pic": "src/tg_leaders"
-    },
-    "hamster_kombat_merch": {
-        "name": "Hamster Kombat merch",
-        "cat": "Specials",
-        "pic": "src/hamster_kombat_merch"
-    },
-    "ton_hamster_kombat_success": {
-        "name": "TON + Hamster Kombat = Success",
-        "cat": "Specials",
-        "pic": "src/ton_hamster_kombat_success"
-    },
-    "conssensus_piranha_pass": {
-        "name": "Conssensus Piranha Pass",
-        "cat": "Specials",
-        "pic": "src/conssensus_piranha_pass"
-    },
-    "web3_academy_launch": {
-        "name": "Web3 academy launch",
-        "cat": "Specials",
-        "pic": "src/web3_academy_launch"
-    },
-    "youtube_gold_button": {
-        "name": "YouTube Gold Button",
-        "cat": "Specials",
-        "pic": "src/youtube_gold_button"
-    },
-    "hamster_youtube_channel": {
-        "name": "Hamster Youtube Channel",
-        "cat": "Specials",
-        "pic": "src/hamster_youtube_channel"
-    },
-    "bitcoin_pizza_day": {
-        "name": "Bitcoin Pizza Day",
-        "cat": "Specials",
-        "pic": "src/bitcoin_pizza_day"
-    },
-    "top_10_global_ranking": {
-        "name": "Top 10 Global Ranking",
-        "cat": "Specials",
-        "pic": "src/top_10_global_ranking"
-    },
-    "nft_collection_launch": {
-        "name": "NFT Collection Launch",
-        "cat": "Specials",
-        "pic": "src/nft_collection_launch"
-    },
-    "special_hamster_conference": {
-        "name": "Special Hamster Conference",
-        "cat": "Specials",
-        "pic": "src/special_hamster_conference"
-    },
-    "short_squeeze": {
-        "name": "Short Squeeze",
-        "cat": "Specials",
-        "pic": "src/short_squeeze"
-    },
-    "there_are_chairs": {
-        "name": "There Are Chairs",
-        "cat": "Specials",
-        "pic": "src/there_are_chairs"
-    },
-    "villa_for_the_dev_team": {
-        "name": "Villa for the DEV team",
-        "cat": "Specials",
-        "pic": "src/villa_for_the_dev_team"
+        "pic": "src/bongdanoff"
     },
     "apps_center_listing": {
         "name": "Apps Center Listing",
         "cat": "Specials",
         "pic": "src/apps_center_listing"
     },
-    "bogdanoff_is_calling": {
-        "name": "Bogdanoff is calling",
+    "villa_for_dev_team": {
+        "name": "Villa for the DEV team",
         "cat": "Specials",
-        "pic": "src/bogdanoff_is_calling"
+        "pic": "src/villa_for_dev_team"
     },
-    "usdt_on_ton": {
-        "name": "USDT on TON",
+    "long_squeeze": {
+        "name": "Long squeeze",
         "cat": "Specials",
-        "pic": "src/usdt_on_ton"
+        "pic": "src/long_squeeze"
+    },
+    "success_with_tucker": {
+        "name": "Success with Tucker",
+        "cat": "Specials",
+        "pic": "src/success_with_tucker"
+    },
+    "forbes": {
+        "name": "Forbes",
+        "cat": "Specials",
+        "pic": "src/forbes"
+    },
+    "two_chairs": {
+        "name": "There Are Chairs",
+        "cat": "Specials",
+        "pic": "src/two_chairs"
+    },
+    "short_squeeze": {
+        "name": "Short Squeeze",
+        "cat": "Specials",
+        "pic": "src/short_squeeze"
+    },
+    "special_hamster_conference": {
+        "name": "Special Hamster Conference",
+        "cat": "Specials",
+        "pic": "src/special_hamster_conference"
+    },
+    "contract_with_football_club": {
+        "name": "Ad contract with a football club",
+        "cat": "Specials",
+        "pic": "src/contract_with_football_club"
+    },
+    "dubia_office": {
+        "name": "Dubia office",
+        "cat": "Specials",
+        "pic": "src/dubia_office"
+    },
+    "joe_rogan_podcast": {
+        "name": "Joe Rogan Podcast",
+        "cat": "Specials",
+        "pic": "src/joe_rogan_podcast"
+    },
+    "venom_blockchain": {
+        "name": "Venom Blockchain",
+        "cat": "Specials",
+        "pic": "src/venom_blockchain"
+    },
+    "notcoin_listing": {
+        "name": "Notcoin listing",
+        "cat": "Specials",
+        "pic": "src/notcoin_listing"
+    },
+    "hamster_ai": {
+        "name": "Hamster AI",
+        "cat": "Specials",
+        "pic": "src/hamster_ai"
+    },
+    "nft_collection_launch": {
+        "name": "NFT Collection Launch",
+        "cat": "Specials",
+        "pic": "src/nft_collection_launch"
+    },
+    "top10_global": {
+        "name": "Top 10 Global Ranking",
+        "cat": "Specials",
+        "pic": "src/top10_global"
+    },
+    "bitcoin_pizza_day": {
+        "name": "Bitcoin Pizza Day",
+        "cat": "Specials",
+        "pic": "src/bitcoin_pizza_day"
+    },
+    "ceo_21m": {
+        "name": "21,000,000 CEOs",
+        "cat": "Specials",
+        "pic": "src/ceo_21m"
+    },
+    "hamster_daily_show": {
+        "name": "Hamster_daily_show",
+        "cat": "Specials",
+        "pic": "src/hamster_daily_show"
+    },
+    "hamster_youtube_channel": {
+        "name": "Hamster Youtube Channel",
+        "cat": "Specials",
+        "pic": "src/hamster_youtube_channel"
+    },
+    "hamster_youtube_gold_button": {
+        "name": "YouTube Gold Button",
+        "cat": "Specials",
+        "pic": "src/hamster_youtube_gold_button"
+    },
+    "web3_academy_launch": {
+        "name": "Web3 academy launch",
+        "cat": "Specials",
+        "pic": "src/web3_academy_launch"
+    },
+    "lambo_for_ceo": {
+        "name": "Lambo for a Hamster CEO",
+        "cat": "Specials",
+        "pic": "src/lambo_for_ceo"
+    },
+    "conssensus_piranha_pass": {
+        "name": "Conssensus Piranha Pass",
+        "cat": "Specials",
+        "pic": "src/conssensus_piranha_pass"
+    },
+    "partner_announce": {
+        "name": "TON + Hamster Kombat = Success",
+        "cat": "Specials",
+        "pic": "src/partner_announce"
+    },
+    "football_club_winner": {
+        "name": "TON + Hamster Kombat = Success",
+        "cat": "Specials",
+        "pic": "src/football_club_winner"
+    },
+    "hamster_drop": {
+        "name": "Hamster Kombat merch",
+        "cat": "Specials",
+        "pic": "src/hamster_drop"
     },
     "premarket_launch": {
         "name": "Premarket Launch",
         "cat": "Specials",
         "pic": "src/premarket_launch"
     },
-    "long_squeeze": {
-        "name": "Long squeeze",
+    "tg_leaders": {
+        "name": "TG Leaders",
         "cat": "Specials",
-        "pic": "src/long_squeeze"
+        "pic": "src/tg_leaders"
+    },
+    "youtube_25_million": {
+        "name": "YouTube 25 Million",
+        "cat": "Specials",
+        "pic": "src/youtube_25_million"
+    },
+    "hamster_green_energy": {
+        "name": "Hamster Green energy",
+        "cat": "Specials",
+        "pic": "src/hamster_green_energy"
+    },
+    "sports_integration": {
+        "name": "Sports integration",
+        "cat": "Specials",
+        "pic": "src/sports_integration"
+    },
+    "twitter_10_million": {
+        "name": "X Network 10 million",
+        "cat": "Specials",
+        "pic": "src/twitter_10_million"
+    },
+    "web3_game_con": {
+        "name": "Web3 Game Con",
+        "cat": "Specials",
+        "pic": "src/web3_game_con"
+    },
+    "sports_intergration_0207": {
+        "name": "Sports intergration",
+        "cat": "Specials",
+        "pic": "src/sports_intergration_0207"
+    },
+    "hamster_break_records": {
+        "name": "Hamster break records",
+        "cat": "Specials",
+        "pic": "src/hamster_break_records"
+    },
+    "sports_integration_0507": {
+        "name": "Sports intergration",
+        "cat": "Specials",
+        "pic": "src/sports_integration_0507"
+    },
+    "cx_hub_istanbul": {
+        "name": "CX Hub Istanbul",
+        "cat": "Specials",
+        "pic": "src/cx_hub_istanbul"
+    },
+    "riyadh_masters_2024": {
+        "name": "Riyadh Masters 2024",
+        "cat": "Specials",
+        "pic": "src/riyadhh_masters_2024"
+    },
+    "sports_integration_0607": {
+        "name": "Quaterfinals are coming",
+        "cat": "Specials",
+        "pic": "src/sports_integration_0607"
     }
 }

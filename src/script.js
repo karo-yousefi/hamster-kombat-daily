@@ -56,10 +56,10 @@ function startCountdown(targetTimeUTC, elementId) {
 		}
 
         if (elementId === "daily-title"){
-		    timerElement.innerHTML = "Daily cards | "+ formatTime(timeRemaining);
+		    timerElement.innerHTML = "Daily Cards | "+ formatTime(timeRemaining);
         }
         else{
-		    timerElement.innerHTML = "cipher | "+ formatTime(timeRemaining);
+		    timerElement.innerHTML = "Cipher | "+ formatTime(timeRemaining);
         }
 	}
 
@@ -106,6 +106,8 @@ function getAPI(API, cardsDirectory){
             const cardOne = data[dailyCards[0]];
             const cardTwo = data[dailyCards[1]];
             const cardThree = data[dailyCards[2]];
+
+            console.log(dailyCards);
 
 
             // Check if cardOne, cardTwo, and cardThree exist
