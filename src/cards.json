@@ -2,614 +2,611 @@
     "ceo": {
         "name": "CEO",
         "cat": "PR&Team",
-        "pic": "src/ceo"
+        "pic": "ceo"
     },
     "marketing": {
         "name": "Marketing",
         "cat": "PR&Team",
-        "pic": "src/marketing"
+        "pic": "marketing"
     },
     "it_team":{
         "name": "IT team",
         "cat": "PR&Team",
-        "pic": "src/it_team"
+        "pic": "it_team"
     },
     "support_team": {
         "name": "Support Team",
         "cat": "PR&Team",
-        "pic": "src/support_team"
+        "pic": "support_team"
     },
     "facebook_ads": {
-        "name": "Facebook ads",
+        "name": "HamsterBook",
         "cat": "PR&Team",
-        "pic": "src/facebook_ads"
+        "pic": "facebook_ads"
     },
     "youtube": {
         "name": "HamsterTube",
         "cat": "PR&Team",
-        "pic": "src/youtube"
+        "pic": "youtube"
     },
     "x": {
         "name": "X",
         "cat": "PR&Team",
-        "pic": "src/x"
+        "pic": "x"
     },
     "medium": {
         "name": "Medium",
         "cat": "PR&Team",
-        "pic": "src/medium"
+        "pic": "medium"
     },
     "instagram": {
         "name": "HemsterGram",
         "cat": "PR&Team",
-        "pic": "src/instagram"
+        "pic": "instagram"
     },
     "tiktok": {
         "name": "TikTok",
         "cat": "PR&Team",
-        "pic": "src/tiktok"
+        "pic": "tiktok"
     },
     "reddit": {
         "name": "Reddit",
         "cat": "PR&Team",
-        "pic": "src/reddit"
+        "pic": "reddit"
     },
     "influencers": {
         "name": "Influencers",
         "cat": "PR&Team",
-        "pic": "src/influencers"
+        "pic": "influencers"
     },
     "partnership_program": {
         "name": "Partnership Program",
         "cat": "PR&Team",
-        "pic": "src/partnership_program"
+        "pic": "partnership_program"
     },
     "product_team": {
         "name": "Product team",
         "cat": "PR&Team",
-        "pic": "src/product_team"
+        "pic": "product_team"
     },
     "bisdev_team": {
         "name": "BisDev team",
         "cat": "PR&Team",
-        "pic": "src/bisdev_team"
+        "pic": "bisdev_team"
     },
     "two_factor_authentication": {
         "name": "Two factor authentication",
         "cat": "PR&Team",
-        "pic": "src/two_factor_authentication"
+        "pic": "two_factor_authentication"
     },
     "ux_ui_team": {
         "name": "UX and UI team",
         "cat": "PR&Team",
-        "pic": "src/ux_ui_team"
+        "pic": "ux_ui_team"
     },
     "securiity_team": {
         "name": "Securiity team",
         "cat": "PR&Team",
-        "pic": "src/securiity_team"
+        "pic": "securiity_team"
     },
     "qa_team": {
         "name": "QA team",
         "cat": "PR&Team",
-        "pic": "src/qa_team"
+        "pic": "qa_team"
     },
     "antihacking_shield": {
         "name": "Antihacking shield",
         "cat": "PR&Team",
-        "pic": "src/antihacking_shield"
+        "pic": "antihacking_shield"
     },
     "risk_management_team": {
         "name": "Risk management team",
         "cat": "PR&Team",
-        "pic": "src/risk_management_team"
+        "pic": "risk_management_team"
     },
     "secutiy_audition": {
         "name": "Secutiy audition",
         "cat": "PR&Team",
-        "pic": "src/secutiy_audition"
+        "pic": "secutiy_audition"
     },
     "anonymouse_transactions_ban": {
         "name": "Anonymouse Transactions Ban",
         "cat": "PR&Team",
-        "pic": "src/anonymouse_transactions_ban"
+        "pic": "anonymouse_transactions_ban"
     },
     "blocking_suspicious_accounts": {
         "name": "Blocking suspicious accounts",
         "cat": "PR&Team",
-        "pic": "src/blocking_suspicious_accounts"
+        "pic": "blocking_suspicious_accounts"
     },
     "tokenomics_expert": {
         "name": "Tokenomics expert",
         "cat": "PR&Team",
-        "pic": "src/tokenomics_expert"
+        "pic": "tokenomics_expert"
     },
     "consensys_explorer_pass": {
         "name": "Consensus Explorer pass",
         "cat": "PR&Team",
-        "pic": "src/consensys_explorer_pass"
+        "pic": "consensys_explorer_pass"
     },
     "vc_labs": {
         "name": "VC Labs",
         "cat": "PR&Team",
-        "pic": "src/vc_labs"
+        "pic": "vc_labs"
     },
     "compliance_officer": {
         "name": "Compliance officer",
         "cat": "PR&Team",
-        "pic": "src/compliance_officer"
+        "pic": "compliance_officer"
     },
     "money_20_20": {
         "name": "Welcome to Amsterdam",
         "cat": "PR&Team",
-        "pic": "src/money_20_20"
+        "pic": "money_20_20"
     },
     "development_hub_munbai": {
         "name": "Development Hub Munbai",
         "cat": "PR&Team",
-        "pic": "src/development_hub_munbai"
+        "pic": "development_hub_munbai"
     },
     "data_center_tokyo": {
-        "remove": "true",
         "name": "Data Center Tokyo",
         "cat": "PR&Team",
-        "pic": "src/data_center_tokyo"
+        "pic": "data_center_tokyo"
     },
     "cointelegraph": {
-        "remove": "true",
         "name": "Cointelegraph",
         "cat": "PR&Team",
-        "pic": "src/cointelegraph"
+        "pic": "cointelegraph"
     },
     "coindesk": {
-        "remove": "true",
         "name": "Coindesk",
         "cat": "PR&Team",
-        "pic": "src/coindesk"
+        "pic": "coindesk"
     },
     "fan_tokens": {
         "name": "Fan tokens",
         "cat": "Market",
-        "pic": "src/fan_tokens"
+        "pic": "fan_tokens"
     },
     "stacking": {
         "name": "Stacking",
         "cat": "Market",
-        "pic": "src/stacking"
+        "pic": "stacking"
     },
     "btc_pairs": {
         "name": "BTC pairs",
         "cat": "Market",
-        "pic": "src/btc_pairs"
+        "pic": "btc_pairs"
     },
     "etc_pairs": {
         "name": "ETC pairs",
         "cat": "Market",
-        "pic": "src/etc_pairs"
+        "pic": "etc_pairs"
     },
     "top_10_cmc_pairs": {
         "name": "Top 10 cmc pairs",
         "cat": "Market",
-        "pic": "src/top_10_cmc_pairs"
+        "pic": "top_10_cmc_pairs"
     },
     "gamefi_tokens": {
         "name": "GameFi tokens",
         "cat": "Market",
-        "pic": "src/gamefi_tokens"
+        "pic": "gamefi_tokens"
     },
     "defi2.0_tokens": {
         "name": "Defi2.0 tokens",
         "cat": "Market",
-        "pic": "src/defi2.0_tokens"
+        "pic": "defi2.0_tokens"
     },
     "socialfi_tokens": {
         "name": "SocialFi tokens",
         "cat": "Market",
-        "pic": "src/socialfi_tokens"
+        "pic": "socialfi_tokens"
     },
     "meme_coins": {
         "name": "Meme coins",
         "cat": "Market",
-        "pic": "src/meme_coins"
+        "pic": "meme_coins"
     },
     "shit_coins": {
         "name": "Shit coins",
         "cat": "Market",
-        "pic": "src/shit_coins"
+        "pic": "shit_coins"
     },
     "margin_trading_x10": {
         "name": "Margin tradingx10",
         "cat": "Market",
-        "pic": "src/margin_trading_x10"
+        "pic": "margin_trading_x10"
     },
     "margin_trading_x20": {
         "name": "Margin tradingx20",
         "cat": "Market",
-        "pic": "src/margin_trading_x20"
+        "pic": "margin_trading_x20"
     },
     "margin_trading_x30": {
         "name": "Margin tradingx30",
         "cat": "Market",
-        "pic": "src/margin_trading_x30"
+        "pic": "margin_trading_x30"
     },
     "margin_trading_x50": {
         "name": "Margin tradingx50",
         "cat": "Market",
-        "pic": "src/margin_trading_x50"
+        "pic": "margin_trading_x50"
     },
     "margin_trading_x75": {
         "name": "Margin tradingx75",
         "cat": "Market",
-        "pic": "src/margin_trading_x75"
+        "pic": "margin_trading_x75"
     },
     "margin_trading_x100": {
         "name": "Margin tradingx100",
         "cat": "Market",
-        "pic": "src/margin_trading_x100"
+        "pic": "margin_trading_x100"
     },
     "derivatives": {
         "name": "Derivatives",
         "cat": "Market",
-        "pic": "src/derivatives"
+        "pic": "derivatives"
     },
     "prediciton_markets": {
         "name": "Prediciton markets",
         "cat": "Market",
-        "pic": "src/prediciton_markets"
+        "pic": "prediciton_markets"
     },
     "web3_integration": {
         "name": "Web3 integration",
         "cat": "Market",
-        "pic": "src/web3_integration"
+        "pic": "web3_integration"
     },
     "dao": {
         "name": "DAO",
         "cat": "Market",
-        "pic": "src/dao"
+        "pic": "dao"
     },
     "p2p_trading": {
         "name": "P2P trading",
         "cat": "Market",
-        "pic": "src/p2p_trading"
+        "pic": "p2p_trading"
     },
     "trading_bots": {
         "name": "Trading bots",
         "cat": "Market",
-        "pic": "src/trading_bots"
+        "pic": "trading_bots"
     },
     "layerzero_listing": {
         "name": "LayerZero Listingp",
         "cat": "Market",
-        "pic": "src/layerzero_listing"
+        "pic": "layerzero_listing"
     },
     "kyc": {
         "name": "KYC",
         "cat": "Legal",
-        "pic": "src/kyc"
+        "pic": "kyc"
     },
     "kyb": {
         "name": "KYB",
         "cat": "Legal",
-        "pic": "src/kyb"
+        "pic": "kyb"
     },
     "legal_opinion": {
         "name": "Legal opinion",
         "cat": "Legal",
-        "pic": "src/legal_opinion"
+        "pic": "legal_opinion"
     },
     "sec_transparancy": {
         "name": "SEC transparancy",
         "cat": "Legal",
-        "pic": "src/sec_transparancy"
+        "pic": "sec_transparancy"
     },
     "anti_money_loundeing": {
         "name": "Anti money loundeing",
         "cat": "Legal",
-        "pic": "src/anti_money_loundeing"
+        "pic": "anti_money_loundeing"
     },
     "licence_uea": {
         "name": "Licence UAE",
         "cat": "Legal",
-        "pic": "src/licence_uea"
+        "pic": "licence_uea"
     },
     "licence_europe": {
         "name": "Licence Europe",
         "cat": "Legal",
-        "pic": "src/licence_europe"
+        "pic": "licence_europe"
     },
     "licence_asia": {
         "name": "Licence Asia",
         "cat": "Legal",
-        "pic": "src/licence_asia"
+        "pic": "licence_asia"
     },
     "licence_south_america": {
         "name": "Licence South America",
         "cat": "Legal",
-        "pic": "src/licence_south_america"
+        "pic": "licence_south_america"
     },
     "licence_australia": {
         "name": "Licence Australia",
         "cat": "Legal",
-        "pic": "src/licence_australia"
+        "pic": "licence_australia"
     },
     "licence_north_america": {
         "name": "Licence North America",
         "cat": "Legal",
-        "pic": "src/licence_north_america"
+        "pic": "licence_north_america"
     },
     "licence_nigeria": {
         "name": "Licence Nigeria",
         "cat": "Legal",
-        "pic": "src/licence_nigeria"
+        "pic": "licence_nigeria"
     },
     "licence_japan": {
         "name": "Licence Japam",
         "cat": "Legal",
-        "pic": "src/licence_japan"
+        "pic": "licence_japan"
     },
     "licence_ethiopia": {
         "name": "Licence Ethiopia",
         "cat": "Legal",
-        "pic": "src/licence_ethiopia"
+        "pic": "licence_ethiopia"
     },
     "licence_india": {
         "name": "Licence Indea",
         "cat": "Legal",
-        "pic": "src/licence_india"
+        "pic": "licence_india"
     },
     "licence_bangladesh": {
         "name": "Licence Bangladesh",
         "cat": "Legal",
-        "pic": "src/licence_bangladesh"
+        "pic": "licence_bangladesh"
     },
     "licence_indonesia": {
         "name": "Licence Indonesia",
         "cat": "Legal",
-        "pic": "src/licence_indonesia"
+        "pic": "licence_indonesia"
     },
     "licence_vietnam": {
         "name": "Licence Vietnam",
         "cat": "Legal",
-        "pic": "src/licence_vietnam"
+        "pic": "licence_vietnam"
     },
     "licence_turekey": {
         "name": "Licence Turkey",
         "cat": "Legal",
-        "pic": "src/licence_turekey"
+        "pic": "licence_turekey"
     },
     "licence_philippines": {
         "name": "Licence Philippines",
         "cat": "Legal",
-        "pic": "src/licence_philippines"
+        "pic": "licence_philippines"
     },
     "usdt_on_ton": {
         "name": "USDT on TON",
         "cat": "Specials",
-        "pic": "src/usdt_on_ton"
+        "pic": "usdt_on_ton"
     },
     "blockchain_life_2024": {
         "name": "Blockchain Life 2024",
         "cat": "Specials",
-        "pic": "src/blockchain_life_2024"
+        "pic": "blockchain_life_2024"
     },
-    "save_hamster_from_drowning": {
-        "name": "Save hamster from drowning",
+    "save_hamsters_from_drowning": {
+        "name": "Save hamsters from drowning",
         "cat": "Specials",
-        "pic": "src/save_hamster_from_drowning"
+        "pic": "save_hamsters_from_drowning"
     },
     "taker_carlson_interview": {
         "name": "Tooker Carlson interview",
         "cat": "Specials",
-        "pic": "src/taker_carlson_interview"
+        "pic": "taker_carlson_interview"
     },
     "token2049": {
         "name": "Token2049",
         "cat": "Specials",
-        "pic": "src/token2049"
+        "pic": "token2049"
     },
     "bongdanoff": {
         "name": "Bongdanoff is calling",
         "cat": "Specials",
-        "pic": "src/bongdanoff"
+        "pic": "bongdanoff"
     },
     "apps_center_listing": {
         "name": "Apps Center Listing",
         "cat": "Specials",
-        "pic": "src/apps_center_listing"
+        "pic": "apps_center_listing"
     },
     "villa_for_dev_team": {
         "name": "Villa for the DEV team",
         "cat": "Specials",
-        "pic": "src/villa_for_dev_team"
+        "pic": "villa_for_dev_team"
     },
     "long_squeeze": {
         "name": "Long squeeze",
         "cat": "Specials",
-        "pic": "src/long_squeeze"
+        "pic": "long_squeeze"
     },
     "success_with_tucker": {
         "name": "Success with Tucker",
         "cat": "Specials",
-        "pic": "src/success_with_tucker"
+        "pic": "success_with_tucker"
     },
     "forbes": {
         "name": "Forbes",
         "cat": "Specials",
-        "pic": "src/forbes"
+        "pic": "forbes"
     },
     "two_chairs": {
         "name": "There Are Chairs",
         "cat": "Specials",
-        "pic": "src/two_chairs"
+        "pic": "two_chairs"
     },
     "short_squeeze": {
         "name": "Short Squeeze",
         "cat": "Specials",
-        "pic": "src/short_squeeze"
+        "pic": "short_squeeze"
     },
     "special_hamster_conference": {
         "name": "Special Hamster Conference",
         "cat": "Specials",
-        "pic": "src/special_hamster_conference"
+        "pic": "special_hamster_conference"
     },
     "contract_with_football_club": {
         "name": "Ad contract with a football club",
         "cat": "Specials",
-        "pic": "src/contract_with_football_club"
+        "pic": "contract_with_football_club"
     },
-    "dubia_office": {
-        "name": "Dubia office",
+    "dubai_office": {
+        "name": "Dubai office",
         "cat": "Specials",
-        "pic": "src/dubia_office"
+        "pic": "dubai_office"
     },
     "joe_rogan_podcast": {
         "name": "Joe Rogan Podcast",
         "cat": "Specials",
-        "pic": "src/joe_rogan_podcast"
+        "pic": "joe_rogan_podcast"
     },
     "venom_blockchain": {
         "name": "Venom Blockchain",
         "cat": "Specials",
-        "pic": "src/venom_blockchain"
+        "pic": "venom_blockchain"
     },
     "notcoin_listing": {
         "name": "Notcoin listing",
         "cat": "Specials",
-        "pic": "src/notcoin_listing"
+        "pic": "notcoin_listing"
     },
     "hamster_ai": {
         "name": "Hamster AI",
         "cat": "Specials",
-        "pic": "src/hamster_ai"
+        "pic": "hamster_ai"
     },
     "nft_collection_launch": {
         "name": "NFT Collection Launch",
         "cat": "Specials",
-        "pic": "src/nft_collection_launch"
+        "pic": "nft_collection_launch"
     },
     "top10_global": {
         "name": "Top 10 Global Ranking",
         "cat": "Specials",
-        "pic": "src/top10_global"
+        "pic": "top10_global"
     },
     "bitcoin_pizza_day": {
         "name": "Bitcoin Pizza Day",
         "cat": "Specials",
-        "pic": "src/bitcoin_pizza_day"
+        "pic": "bitcoin_pizza_day"
     },
     "ceo_21m": {
         "name": "21,000,000 CEOs",
         "cat": "Specials",
-        "pic": "src/ceo_21m"
+        "pic": "ceo_21m"
     },
     "hamster_daily_show": {
         "name": "Hamster_daily_show",
         "cat": "Specials",
-        "pic": "src/hamster_daily_show"
+        "pic": "hamster_daily_show"
     },
     "hamster_youtube_channel": {
         "name": "Hamster Youtube Channel",
         "cat": "Specials",
-        "pic": "src/hamster_youtube_channel"
+        "pic": "hamster_youtube_channel"
     },
     "hamster_youtube_gold_button": {
         "name": "YouTube Gold Button",
         "cat": "Specials",
-        "pic": "src/hamster_youtube_gold_button"
+        "pic": "hamster_youtube_gold_button"
     },
     "web3_academy_launch": {
         "name": "Web3 academy launch",
         "cat": "Specials",
-        "pic": "src/web3_academy_launch"
+        "pic": "web3_academy_launch"
     },
     "lambo_for_ceo": {
         "name": "Lambo for a Hamster CEO",
         "cat": "Specials",
-        "pic": "src/lambo_for_ceo"
+        "pic": "lambo_for_ceo"
     },
-    "conssensus_piranha_pass": {
-        "name": "Conssensus Piranha Pass",
+    "consensus_piranha_pass": {
+        "name": "Consensus Piranha Pass",
         "cat": "Specials",
-        "pic": "src/conssensus_piranha_pass"
+        "pic": "consensus_piranha_pass"
     },
     "partner_announce": {
         "name": "TON + Hamster Kombat = Success",
         "cat": "Specials",
-        "pic": "src/partner_announce"
+        "pic": "partner_announce"
     },
     "football_club_winner": {
         "name": "TON + Hamster Kombat = Success",
         "cat": "Specials",
-        "pic": "src/football_club_winner"
+        "pic": "football_club_winner"
     },
     "hamster_drop": {
         "name": "Hamster Kombat merch",
         "cat": "Specials",
-        "pic": "src/hamster_drop"
+        "pic": "hamster_drop"
     },
     "premarket_launch": {
         "name": "Premarket Launch",
         "cat": "Specials",
-        "pic": "src/premarket_launch"
+        "pic": "premarket_launch"
     },
     "tg_leaders": {
         "name": "TG Leaders",
         "cat": "Specials",
-        "pic": "src/tg_leaders"
+        "pic": "tg_leaders"
     },
     "youtube_25_million": {
         "name": "YouTube 25 Million",
         "cat": "Specials",
-        "pic": "src/youtube_25_million"
+        "pic": "youtube_25_million"
     },
     "hamster_green_energy": {
         "name": "Hamster Green energy",
         "cat": "Specials",
-        "pic": "src/hamster_green_energy"
+        "pic": "hamster_green_energy"
     },
     "sports_integration": {
         "name": "Sports integration",
         "cat": "Specials",
-        "pic": "src/sports_integration"
+        "pic": "sports_integration"
     },
     "twitter_10_million": {
         "name": "X Network 10 million",
         "cat": "Specials",
-        "pic": "src/twitter_10_million"
+        "pic": "twitter_10_million"
     },
     "web3_game_con": {
         "name": "Web3 Game Con",
         "cat": "Specials",
-        "pic": "src/web3_game_con"
+        "pic": "web3_game_con"
     },
-    "sports_intergration_0207": {
+    "ssports_integration_0207": {
         "name": "Sports intergration",
         "cat": "Specials",
-        "pic": "src/sports_intergration_0207"
+        "pic": "ssports_integration_0207"
     },
     "hamster_break_records": {
         "name": "Hamster break records",
         "cat": "Specials",
-        "pic": "src/hamster_break_records"
+        "pic": "hamster_break_records"
     },
     "sports_integration_0507": {
         "name": "Sports intergration",
         "cat": "Specials",
-        "pic": "src/sports_integration_0507"
+        "pic": "sports_integration_0507"
     },
     "cx_hub_istanbul": {
         "name": "CX Hub Istanbul",
         "cat": "Specials",
-        "pic": "src/cx_hub_istanbul"
+        "pic": "cx_hub_istanbul"
     },
     "riyadh_masters_2024": {
         "name": "Riyadh Masters 2024",
         "cat": "Specials",
-        "pic": "src/riyadhh_masters_2024"
+        "pic": "riyadhh_masters_2024"
     },
     "sports_integration_0607": {
         "name": "Quaterfinals are coming",
         "cat": "Specials",
-        "pic": "src/sports_integration_0607"
+        "pic": "sports_integration_0607"
     }
 }

@@ -107,7 +107,6 @@ function getAPI(API, cardsDirectory){
             const cardTwo = data[dailyCards[1]];
             const cardThree = data[dailyCards[2]];
 
-            console.log(dailyCards);
 
 
             // Check if cardOne, cardTwo, and cardThree exist
@@ -123,9 +122,11 @@ function getAPI(API, cardsDirectory){
             cardTwoCat.innerHTML = cardTwo.cat;
             cardThreeCat.innerHTML = cardThree.cat;
 
-            // cardOnePic.src = cardOne.pic;
-            // cardTwoPic.src = cardTwo.pic;
-            // cardThreePic.src = cardThree.pic;
+            cardOnePic.src = "src/cards/" + cardOne.pic + ".webp";
+            cardTwoPic.src = "src/cards/" + cardTwo.pic + ".webp";
+            cardThreePic.src = "src/cards/" + cardThree.pic + ".webp";
+
+            console.log(cardOnePic);
 
         })
         .catch(error => {
