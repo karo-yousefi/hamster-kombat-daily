@@ -1,5 +1,5 @@
 # hamster-kombar-daily
-A website to show the daily hamster kombar daily cards, Morse, and ...
+A website to show the hamster kombar daily cards, Morse code, and more
 
 Live website [Here](https://karo-yousefi.github.io/hamster-kombat-daily/)
 
