@@ -126,7 +126,6 @@ function getAPI(API, cardsDirectory){
             cardTwoPic.src = "src/cards/" + cardTwo.pic + ".webp";
             cardThreePic.src = "src/cards/" + cardThree.pic + ".webp";
 
-            console.log(cardOnePic);
 
         })
         .catch(error => {
