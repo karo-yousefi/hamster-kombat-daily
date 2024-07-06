@@ -15,7 +15,36 @@ const cardOnePic = document.getElementById("card-one-pic");
 const cardTwoPic = document.getElementById("card-two-pic");
 const cardThreePic = document.getElementById("card-three-pic");
 
+const cipherCode = document.getElementById("cipher-code");
+ const cipherCodeString = document.getElementById("cipher-code-string");
 
+const morseCodeDic = {
+    "A": ".-",
+    "B": "-...",
+    "C": "-.-.",
+    "D": "-..",
+    "E": ".",
+    "F": "..-.",
+    "G": "--.",
+    "H": "....",
+    "I": "..",
+    "J": ".---",
+    "K": "-.-",
+    "L": ".-..",
+    "M": "--",
+    "N": "-.",
+    "O": "---",
+    "P": ".--.",
+    "Q": "--.-",
+    "R": ".-.",
+    "S": "...",
+    "T": "-",
+    "U": "..-",
+    "W": ".--",
+    "X": "-..-",
+    "Y": "-.--",
+    "Z": "--.."
+ };
 
 
 function calculateTimeRemaining(targetTimeUTC) {
@@ -67,12 +96,17 @@ function startCountdown(targetTimeUTC, elementId) {
 	setInterval(updateTimer, 1000);
 }
 
-// Initialize the countdowns
-startCountdown(DAILY_CARDS_UPDATE_TIME, 'daily-title');
-startCountdown(CIPHER_UPDATE_TIME, "cipher-title");
 
-
-
+async function stringToMorse(string){
+    const word = await Array.from(string);
+    let result = "";
+    for(i of word){
+        result += morseCodeDic[i];
+        result += "  /  ";
+    }
+    cipherCode.innerHTML = result;
+    cipherCodeString.innerHTML = "( " + string + " )";
+}
 
 
 function getAPI(API, cardsDirectory){
@@ -86,8 +120,9 @@ function getAPI(API, cardsDirectory){
     .then(apiData => {
         
         const dailyCards= apiData.dailyCards;
-        const morseCode = apiData.morseCode;
-
+        const morseCodeWord = apiData.morseCode;
+        
+        stringToMorse(morseCodeWord);
 
         // Check if dailyCard is an array and has at least 3 elements
         if (!Array.isArray(dailyCards) || dailyCards.length < 3) {
@@ -106,7 +141,6 @@ function getAPI(API, cardsDirectory){
             const cardOne = data[dailyCards[0]];
             const cardTwo = data[dailyCards[1]];
             const cardThree = data[dailyCards[2]];
-
 
 
             // Check if cardOne, cardTwo, and cardThree exist
@@ -141,5 +175,10 @@ function getAPI(API, cardsDirectory){
 }
 
 
+
+
+// Initialize the countdowns
+startCountdown(DAILY_CARDS_UPDATE_TIME, 'daily-title');
+startCountdown(CIPHER_UPDATE_TIME, "cipher-title");
 getAPI(API, CARDS_DIR);
 
