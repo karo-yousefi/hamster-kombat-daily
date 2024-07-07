@@ -1,23 +1,28 @@
-const API = "https://nabikaz.github.io/HamsterKombat-API/config.json";
-const CARDS_DIR = "src/cards.json"
-const DAILY_CARDS_UPDATE_TIME = "12:00"; 
-const CIPHER_UPDATE_TIME = "19:00"; 
+const API = "https://nabikaz.github.io/HamsterKombat-API/config.json"; // API to get the daily data
+const CARDS_DIR = "src/cards.json" // JSON file with all the cards data
+const DAILY_CARDS_UPDATE_TIME = "12:00";  // Daily combo update time in UTC
+const CIPHER_UPDATE_TIME = "19:00";  // Cipher code update time in UTC
 
-const cardOneTitle = document.getElementById("card-one-title");
+// Daily cards name
+const cardOneTitle = document.getElementById("card-one-title"); 
 const cardTwoTitle = document.getElementById("card-two-title");
 const cardThreeTitle = document.getElementById("card-three-title");
 
+// Daily cards category
 const cardOneCat = document.getElementById("card-one-cat");
 const cardTwoCat = document.getElementById("card-two-cat");
 const cardThreeCat = document.getElementById("card-three-cat");
 
+ // Daily cards picture
 const cardOnePic = document.getElementById("card-one-pic");
 const cardTwoPic = document.getElementById("card-two-pic");
 const cardThreePic = document.getElementById("card-three-pic");
 
+// Cipher code (string + morse)
 const cipherCode = document.getElementById("cipher-code");
- const cipherCodeString = document.getElementById("cipher-code-string");
+const cipherCodeString = document.getElementById("cipher-code-string");
 
+// Letters to morse code
 const morseCodeDic = {
     "A": ".-",
     "B": "-...",
@@ -46,7 +51,7 @@ const morseCodeDic = {
     "Z": "--.."
  };
 
-
+// A function to calculating the countdown timer
 function calculateTimeRemaining(targetTimeUTC) {
 	const now = new Date();
 	const nowUTC = new Date(now.toISOString().slice(0, 19) + 'Z');
@@ -96,13 +101,13 @@ function startCountdown(targetTimeUTC, elementId) {
 	setInterval(updateTimer, 1000);
 }
 
-
+// Converting the string to morse code and updating the HTML elements
 async function stringToMorse(string){
     const word = await Array.from(string);
     let result = "";
     for(i of word){
         result += morseCodeDic[i];
-        result += "  /  ";
+        result += "  /  "; // Seperating the resulats by /
     }
     cipherCode.innerHTML = result;
     cipherCodeString.innerHTML = "( " + string + " )";
@@ -175,10 +180,9 @@ function getAPI(API, cardsDirectory){
 }
 
 
-
-
-// Initialize the countdowns
-startCountdown(DAILY_CARDS_UPDATE_TIME, 'daily-title');
-startCountdown(CIPHER_UPDATE_TIME, "cipher-title");
+// Calling the fcuntions when the page refreshes 
+startCountdown(DAILY_CARDS_UPDATE_TIME, 'daily-title'); // Initialize the countdown
+startCountdown(CIPHER_UPDATE_TIME, "cipher-title"); // Initialize the countdown
 getAPI(API, CARDS_DIR);
 
+// Note: also need to be called when the timers hit zero

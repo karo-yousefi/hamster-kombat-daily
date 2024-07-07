@@ -279,6 +279,11 @@
         "cat": "Market",
         "pic": "layerzero_listing"
     },
+    "leaderboards": {
+        "name": "Leaderboards",
+        "cat": "Market",
+        "pic": "leaderboards"
+    },
     "kyc": {
         "name": "KYC",
         "cat": "Legal",
