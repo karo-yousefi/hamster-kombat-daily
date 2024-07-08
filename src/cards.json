@@ -618,5 +618,10 @@
         "name": "Quaterfinals are coming",
         "cat": "Specials",
         "pic": "sports_integration_0707"
+    },
+    "sports_integration_0807": {
+        "name": "Only 4 best left",
+        "cat": "Specials",
+        "pic": "sports_integration_0807"
     }
 }
