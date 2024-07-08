@@ -83,11 +83,14 @@ function startCountdown(targetTimeUTC, elementId) {
 	function updateTimer() {
 		const timeRemaining = calculateTimeRemaining(targetTimeUTC);
 
+
 		if (timeRemaining <= 0) {
 			targetTimeUTC = '24:00';
 			setTimeout(() => startCountdown(targetTimeUTC, elementId), 1000);
+            getAPI(API, CARDS_DIR); // Update the data after the timer reached 00:00:00
 			return;
 		}
+
 
         if (elementId === "daily-title"){
 		    timerElement.innerHTML = "Daily Cards | "+ formatTime(timeRemaining);
