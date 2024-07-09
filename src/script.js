@@ -150,12 +150,13 @@ function getAPI(API, cardsDirectory){
             const cardTwo = data[dailyCards[1]];
             const cardThree = data[dailyCards[2]];
 
+            console.log(dailyCards);
 
             // Check if cardOne, cardTwo, and cardThree exist
             if (!cardOne || !cardTwo || !cardThree) {
                 throw new Error('Invalid card data');
             }
-
+            
             cardOneTitle.innerHTML = cardOne.name;
             cardTwoTitle.innerHTML = cardTwo.name;
             cardThreeTitle.innerHTML = cardThree.name;

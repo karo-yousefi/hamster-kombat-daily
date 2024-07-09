@@ -84,10 +84,10 @@
         "cat": "PR&Team",
         "pic": "ux_ui_team"
     },
-    "securiity_team": {
-        "name": "Securiity team",
+    "security_team": {
+        "name": "Security team",
         "cat": "PR&Team",
-        "pic": "securiity_team"
+        "pic": "security_team"
     },
     "qa_team": {
         "name": "QA team",
@@ -384,6 +384,11 @@
         "cat": "Legal",
         "pic": "licence_philippines"
     },
+    "dex": {
+        "name": "DEX",
+        "cat": "Web3",
+        "pic": "dex"
+    },
     "usdt_on_ton": {
         "name": "USDT on TON",
         "cat": "Specials",
@@ -623,5 +628,15 @@
         "name": "Only 4 best left",
         "cat": "Specials",
         "pic": "sports_integration_0807"
+    },
+    "sports_integration_0907": {
+        "name": "Semi-final",
+        "cat": "Specials",
+        "pic": "sports_integration_0907"
+    },
+    "adv_integration_0907": {
+        "name": "Percussion taps",
+        "cat": "Specials",
+        "pic": "adv_integration_0907"
     }
 }
